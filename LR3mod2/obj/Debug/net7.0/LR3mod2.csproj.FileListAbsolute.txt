@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\bin\Debug\net7.0\LR3mod2.exe
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\bin\Debug\net7.0\LR3mod2.deps.json
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\bin\Debug\net7.0\LR3mod2.runtimeconfig.json
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\bin\Debug\net7.0\LR3mod2.dll
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\bin\Debug\net7.0\LR3mod2.pdb
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.dll
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\refint\LR3mod2.dll
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.pdb
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\LR3mod2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LR3mod2\LR3mod2\obj\Debug\net7.0\ref\LR3mod2.dll

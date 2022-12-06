@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LR3mod2/1.0.0": {
+        "runtime": {
+          "LR3mod2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LR3mod2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
